@@ -23,7 +23,7 @@ modern React application. This way we can focus on the code itself, and not
 worry about configuring many build tools.
 
 The
-[package.json](https://github.com/AlterClassIO/react-car-configurator/blob/master/package.json)
+[package.json](https://github.com/AlterClassIO/react-flix-challenge/blob/main/package.json)
 file provides four scripts:
 
 - `start`: Runs the app in the development mode.
