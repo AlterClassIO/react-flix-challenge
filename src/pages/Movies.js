@@ -143,7 +143,7 @@ const Movies = () => {
     parseInt(query.get('page'), 10) || 1
   );
 
-  // 4. TODO: Retrieve the URL parameters (type and id)
+  // 4. TODO: Retrieve the URL query strings (type and id)
   const { type, id } = {};
 
   const tv = type === 'shows';
