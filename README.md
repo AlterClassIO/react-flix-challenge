@@ -35,7 +35,7 @@ file provides four scripts:
 
 ## Requirements
 
-1. Create an account on [themoviedb.org](themoviedb.org) (it's free!)
+1. Create an account on [themoviedb.org](https://www.themoviedb.org/) (it's free!)
 
 2. Copy your [TMDB API Read Access Token (v4 auth)](https://www.themoviedb.org/settings/api) as you'll need it to fetch the data for this project
 
