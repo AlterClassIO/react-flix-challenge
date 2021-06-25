@@ -22,7 +22,7 @@ const StyledLogo = styled.span`
 /* TODO: Render a link for the <StyledLogo /> component instead of a 'span'
  *  - The <StyledLogo /> component is a styled component defined above
  *  - Replace the span with the <Link /> component from react router
- *  - Don't forget to pass the 'to' prop when rendering the <Card /> to redirect to the homepage
+ *  - Don't forget to pass the 'to' prop to redirect to the homepage
  */
 const Logo = () => (
   <StyledLogo>
