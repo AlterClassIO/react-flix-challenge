@@ -33,6 +33,12 @@ file provides four scripts:
 - `test`: Launches the test runner in the interactive watch mode.
 - `eject`: Remove create-react-app build dependency from your project.
 
+## Requirements
+
+1. Create an account on [themoviedb.org](themoviedb.org) (it's free!)
+
+2. Copy your [TMDB API Read Access Token (v4 auth)](https://www.themoviedb.org/settings/api) as you'll need it to fetch the data for this project
+
 ## Instructions
 
 1. Clone the project repository:
@@ -42,13 +48,15 @@ file provides four scripts:
 
 3. Install the dependencies: `npm install`
 
-4. Start the app in the development mode: `npm start`
+4. Rename the `env.example` file to `.env` and paste your **API Read Access Token** in it
 
-5. Open [http://localhost:3000](http://localhost:3000) to view your React
+5. Start the app in the development mode: `npm start`
+
+6. Open [http://localhost:3000](http://localhost:3000) to view your React
    application in the browser
 
-6. Follow along with the lesson.
+7. Follow along with the lesson.
 
-7. Implement the project.
+8. Implement the project.
 
-8. Submit!
+9. Submit!
